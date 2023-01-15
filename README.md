@@ -1,6 +1,6 @@
 # ONParkinson Mobile App Releases
 
-Version 0.23.2
+Version 0.44.0
  
  ## Autores:
 - 190257014 - Pedro Mota
